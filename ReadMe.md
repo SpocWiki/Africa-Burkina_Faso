@@ -105,8 +105,8 @@ id: Burkina Faso
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Burkina_Faso//
-markerFolder: ./Burkina_Faso//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Burkina Faso] 
