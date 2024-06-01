@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- BF
 - BFA
 - Burkina Faso
 - بوركينا فاسو
