@@ -40,11 +40,18 @@ markerFolder: ./Houet/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Houet|Houet]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Houet.public|Houet.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Houet.internal|Houet.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Houet.protect|Houet.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Houet.private|Houet.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Houet.personal|Houet.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Houet.secret|Houet.secret]] 
+
+### #is_/same_as :: [Houet](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.md) 
+
+### #is_/same_as :: [Houet.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.public.md) 
+
+### #is_/same_as :: [Houet.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.internal.md) 
+
+### #is_/same_as :: [Houet.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.protect.md) 
+
+### #is_/same_as :: [Houet.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.private.md) 
+
+### #is_/same_as :: [Houet.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.personal.md) 
+
+### #is_/same_as :: [Houet.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Sourou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Sourou|Sourou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.public|Sourou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.internal|Sourou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.protect|Sourou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.private|Sourou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.personal|Sourou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sourou.secret|Sourou.secret]] 
+
+### #is_/same_as :: [Sourou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.md) 
+
+### #is_/same_as :: [Sourou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.public.md) 
+
+### #is_/same_as :: [Sourou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.internal.md) 
+
+### #is_/same_as :: [Sourou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.protect.md) 
+
+### #is_/same_as :: [Sourou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.private.md) 
+
+### #is_/same_as :: [Sourou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.personal.md) 
+
+### #is_/same_as :: [Sourou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.secret.md)
 

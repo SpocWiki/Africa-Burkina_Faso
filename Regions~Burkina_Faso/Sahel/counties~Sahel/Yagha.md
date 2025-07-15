@@ -40,11 +40,18 @@ markerFolder: ./Yagha/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Yagha|Yagha]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.public|Yagha.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.internal|Yagha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.protect|Yagha.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.private|Yagha.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.personal|Yagha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Yagha.secret|Yagha.secret]] 
+
+### #is_/same_as :: [Yagha](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.md) 
+
+### #is_/same_as :: [Yagha.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.public.md) 
+
+### #is_/same_as :: [Yagha.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.internal.md) 
+
+### #is_/same_as :: [Yagha.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.protect.md) 
+
+### #is_/same_as :: [Yagha.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.private.md) 
+
+### #is_/same_as :: [Yagha.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.personal.md) 
+
+### #is_/same_as :: [Yagha.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.secret.md)
 

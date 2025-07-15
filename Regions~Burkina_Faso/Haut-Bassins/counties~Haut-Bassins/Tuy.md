@@ -39,11 +39,18 @@ markerFolder: ./Tuy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Tuy|Tuy]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.public|Tuy.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.internal|Tuy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.protect|Tuy.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.private|Tuy.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.personal|Tuy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Tuy.secret|Tuy.secret]] 
+
+### #is_/same_as :: [Tuy](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.md) 
+
+### #is_/same_as :: [Tuy.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.public.md) 
+
+### #is_/same_as :: [Tuy.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.internal.md) 
+
+### #is_/same_as :: [Tuy.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.protect.md) 
+
+### #is_/same_as :: [Tuy.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.private.md) 
+
+### #is_/same_as :: [Tuy.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.personal.md) 
+
+### #is_/same_as :: [Tuy.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Tuy.secret.md)
 

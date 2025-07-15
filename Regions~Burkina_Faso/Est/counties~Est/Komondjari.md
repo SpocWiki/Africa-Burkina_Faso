@@ -40,11 +40,18 @@ markerFolder: ./Komondjari/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari|Komondjari]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.public|Komondjari.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.internal|Komondjari.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.protect|Komondjari.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.private|Komondjari.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.personal|Komondjari.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komondjari.secret|Komondjari.secret]] 
+
+### #is_/same_as :: [Komondjari](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.md) 
+
+### #is_/same_as :: [Komondjari.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.public.md) 
+
+### #is_/same_as :: [Komondjari.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.internal.md) 
+
+### #is_/same_as :: [Komondjari.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.protect.md) 
+
+### #is_/same_as :: [Komondjari.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.private.md) 
+
+### #is_/same_as :: [Komondjari.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.personal.md) 
+
+### #is_/same_as :: [Komondjari.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Komondjari.secret.md)
 

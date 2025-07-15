@@ -40,11 +40,18 @@ markerFolder: ./Passoré/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Passoré|Passoré]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.public|Passoré.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.internal|Passoré.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.protect|Passoré.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.private|Passoré.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.personal|Passoré.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Passoré.secret|Passoré.secret]] 
+
+### #is_/same_as :: [Passoré](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.md) 
+
+### #is_/same_as :: [Passoré.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.public.md) 
+
+### #is_/same_as :: [Passoré.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.internal.md) 
+
+### #is_/same_as :: [Passoré.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.protect.md) 
+
+### #is_/same_as :: [Passoré.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.private.md) 
+
+### #is_/same_as :: [Passoré.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.personal.md) 
+
+### #is_/same_as :: [Passoré.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Boulkiemdé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé|Boulkiemdé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.public|Boulkiemdé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.internal|Boulkiemdé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.protect|Boulkiemdé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.private|Boulkiemdé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.personal|Boulkiemdé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulkiemdé.secret|Boulkiemdé.secret]] 
+
+### #is_/same_as :: [Boulkiemdé](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.md) 
+
+### #is_/same_as :: [Boulkiemdé.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.public.md) 
+
+### #is_/same_as :: [Boulkiemdé.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.internal.md) 
+
+### #is_/same_as :: [Boulkiemdé.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.protect.md) 
+
+### #is_/same_as :: [Boulkiemdé.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.private.md) 
+
+### #is_/same_as :: [Boulkiemdé.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.personal.md) 
+
+### #is_/same_as :: [Boulkiemdé.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Boulkiemdé.secret.md)
 

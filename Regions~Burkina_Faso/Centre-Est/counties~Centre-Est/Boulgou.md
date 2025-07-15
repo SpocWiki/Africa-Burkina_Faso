@@ -40,11 +40,18 @@ markerFolder: ./Boulgou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou|Boulgou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.public|Boulgou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.internal|Boulgou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.protect|Boulgou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.private|Boulgou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.personal|Boulgou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Boulgou.secret|Boulgou.secret]] 
+
+### #is_/same_as :: [Boulgou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.md) 
+
+### #is_/same_as :: [Boulgou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.public.md) 
+
+### #is_/same_as :: [Boulgou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.internal.md) 
+
+### #is_/same_as :: [Boulgou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.protect.md) 
+
+### #is_/same_as :: [Boulgou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.private.md) 
+
+### #is_/same_as :: [Boulgou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.personal.md) 
+
+### #is_/same_as :: [Boulgou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Boulgou.secret.md)
 

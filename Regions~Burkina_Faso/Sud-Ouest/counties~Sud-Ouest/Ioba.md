@@ -40,11 +40,18 @@ markerFolder: ./Ioba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Ioba|Ioba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.public|Ioba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.internal|Ioba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.protect|Ioba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.private|Ioba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.personal|Ioba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ioba.secret|Ioba.secret]] 
+
+### #is_/same_as :: [Ioba](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.md) 
+
+### #is_/same_as :: [Ioba.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.public.md) 
+
+### #is_/same_as :: [Ioba.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.internal.md) 
+
+### #is_/same_as :: [Ioba.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.protect.md) 
+
+### #is_/same_as :: [Ioba.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.private.md) 
+
+### #is_/same_as :: [Ioba.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.personal.md) 
+
+### #is_/same_as :: [Ioba.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Ioba.secret.md)
 

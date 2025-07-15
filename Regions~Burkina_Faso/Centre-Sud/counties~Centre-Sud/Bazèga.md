@@ -41,11 +41,18 @@ markerFolder: ./Bazéga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga|Bazéga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.public|Bazéga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.internal|Bazéga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.protect|Bazéga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.private|Bazéga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.personal|Bazéga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bazéga.secret|Bazéga.secret]] 
+
+### #is_/same_as :: [Bazèga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.md) 
+
+### #is_/same_as :: [Bazèga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.public.md) 
+
+### #is_/same_as :: [Bazèga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.internal.md) 
+
+### #is_/same_as :: [Bazèga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.protect.md) 
+
+### #is_/same_as :: [Bazèga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.private.md) 
+
+### #is_/same_as :: [Bazèga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.personal.md) 
+
+### #is_/same_as :: [Bazèga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.secret.md)
 

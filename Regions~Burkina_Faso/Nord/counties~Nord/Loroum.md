@@ -40,11 +40,18 @@ markerFolder: ./Loroum/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Loroum|Loroum]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.public|Loroum.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.internal|Loroum.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.protect|Loroum.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.private|Loroum.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.personal|Loroum.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Loroum.secret|Loroum.secret]] 
+
+### #is_/same_as :: [Loroum](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.md) 
+
+### #is_/same_as :: [Loroum.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.public.md) 
+
+### #is_/same_as :: [Loroum.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.internal.md) 
+
+### #is_/same_as :: [Loroum.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.protect.md) 
+
+### #is_/same_as :: [Loroum.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.private.md) 
+
+### #is_/same_as :: [Loroum.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.personal.md) 
+
+### #is_/same_as :: [Loroum.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Loroum.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Koulpélogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo|Koulpélogo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.public|Koulpélogo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.internal|Koulpélogo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.protect|Koulpélogo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.private|Koulpélogo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.personal|Koulpélogo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Koulpélogo.secret|Koulpélogo.secret]] 
+
+### #is_/same_as :: [Koulpélogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.md) 
+
+### #is_/same_as :: [Koulpélogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.public.md) 
+
+### #is_/same_as :: [Koulpélogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.internal.md) 
+
+### #is_/same_as :: [Koulpélogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.protect.md) 
+
+### #is_/same_as :: [Koulpélogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.private.md) 
+
+### #is_/same_as :: [Koulpélogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.personal.md) 
+
+### #is_/same_as :: [Koulpélogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.secret.md)
 

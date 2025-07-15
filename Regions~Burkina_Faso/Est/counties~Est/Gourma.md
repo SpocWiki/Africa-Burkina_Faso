@@ -40,11 +40,18 @@ markerFolder: ./Gourma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Gourma|Gourma]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.public|Gourma.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.internal|Gourma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.protect|Gourma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.private|Gourma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.personal|Gourma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gourma.secret|Gourma.secret]] 
+
+### #is_/same_as :: [Gourma](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.md) 
+
+### #is_/same_as :: [Gourma.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.public.md) 
+
+### #is_/same_as :: [Gourma.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.internal.md) 
+
+### #is_/same_as :: [Gourma.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.protect.md) 
+
+### #is_/same_as :: [Gourma.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.private.md) 
+
+### #is_/same_as :: [Gourma.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.personal.md) 
+
+### #is_/same_as :: [Gourma.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gourma.secret.md)
 

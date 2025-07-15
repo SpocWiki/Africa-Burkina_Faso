@@ -40,11 +40,18 @@ markerFolder: ./Ganzourgou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou|Ganzourgou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.public|Ganzourgou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.internal|Ganzourgou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.protect|Ganzourgou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.private|Ganzourgou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.personal|Ganzourgou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ganzourgou.secret|Ganzourgou.secret]] 
+
+### #is_/same_as :: [Ganzourgou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.md) 
+
+### #is_/same_as :: [Ganzourgou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.public.md) 
+
+### #is_/same_as :: [Ganzourgou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.internal.md) 
+
+### #is_/same_as :: [Ganzourgou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.protect.md) 
+
+### #is_/same_as :: [Ganzourgou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.private.md) 
+
+### #is_/same_as :: [Ganzourgou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.personal.md) 
+
+### #is_/same_as :: [Ganzourgou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.secret.md)
 

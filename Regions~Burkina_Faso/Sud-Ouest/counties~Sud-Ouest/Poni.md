@@ -40,11 +40,18 @@ markerFolder: ./Poni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Poni|Poni]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Poni.public|Poni.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Poni.internal|Poni.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Poni.protect|Poni.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Poni.private|Poni.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Poni.personal|Poni.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Poni.secret|Poni.secret]] 
+
+### #is_/same_as :: [Poni](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.md) 
+
+### #is_/same_as :: [Poni.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.public.md) 
+
+### #is_/same_as :: [Poni.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.internal.md) 
+
+### #is_/same_as :: [Poni.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.protect.md) 
+
+### #is_/same_as :: [Poni.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.private.md) 
+
+### #is_/same_as :: [Poni.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.personal.md) 
+
+### #is_/same_as :: [Poni.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Poni.secret.md)
 

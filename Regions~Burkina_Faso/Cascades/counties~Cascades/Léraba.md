@@ -40,11 +40,18 @@ markerFolder: ./Léraba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Léraba|Léraba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.public|Léraba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.internal|Léraba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.protect|Léraba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.private|Léraba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.personal|Léraba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Léraba.secret|Léraba.secret]] 
+
+### #is_/same_as :: [Léraba](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.md) 
+
+### #is_/same_as :: [Léraba.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.public.md) 
+
+### #is_/same_as :: [Léraba.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.internal.md) 
+
+### #is_/same_as :: [Léraba.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.protect.md) 
+
+### #is_/same_as :: [Léraba.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.private.md) 
+
+### #is_/same_as :: [Léraba.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.personal.md) 
+
+### #is_/same_as :: [Léraba.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Léraba.secret.md)
 

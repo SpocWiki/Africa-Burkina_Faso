@@ -40,11 +40,18 @@ markerFolder: ./Sanguié/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié|Sanguié]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié.public|Sanguié.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié.internal|Sanguié.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié.protect|Sanguié.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié.private|Sanguié.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié.personal|Sanguié.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sanguié.secret|Sanguié.secret]] 
+
+### #is_/same_as :: [Sanguié](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.md) 
+
+### #is_/same_as :: [Sanguié.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.public.md) 
+
+### #is_/same_as :: [Sanguié.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.internal.md) 
+
+### #is_/same_as :: [Sanguié.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.protect.md) 
+
+### #is_/same_as :: [Sanguié.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.private.md) 
+
+### #is_/same_as :: [Sanguié.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.personal.md) 
+
+### #is_/same_as :: [Sanguié.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.secret.md)
 

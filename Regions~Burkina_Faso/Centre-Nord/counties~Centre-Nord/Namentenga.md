@@ -40,11 +40,18 @@ markerFolder: ./Namentenga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga|Namentenga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.public|Namentenga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.internal|Namentenga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.protect|Namentenga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.private|Namentenga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.personal|Namentenga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Namentenga.secret|Namentenga.secret]] 
+
+### #is_/same_as :: [Namentenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.md) 
+
+### #is_/same_as :: [Namentenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.public.md) 
+
+### #is_/same_as :: [Namentenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.internal.md) 
+
+### #is_/same_as :: [Namentenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.protect.md) 
+
+### #is_/same_as :: [Namentenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.private.md) 
+
+### #is_/same_as :: [Namentenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.personal.md) 
+
+### #is_/same_as :: [Namentenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Namentenga.secret.md)
 

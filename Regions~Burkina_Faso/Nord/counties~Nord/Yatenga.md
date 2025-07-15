@@ -40,11 +40,18 @@ markerFolder: ./Yatenga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga|Yatenga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.public|Yatenga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.internal|Yatenga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.protect|Yatenga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.private|Yatenga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.personal|Yatenga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Yatenga.secret|Yatenga.secret]] 
+
+### #is_/same_as :: [Yatenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.md) 
+
+### #is_/same_as :: [Yatenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.public.md) 
+
+### #is_/same_as :: [Yatenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.internal.md) 
+
+### #is_/same_as :: [Yatenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.protect.md) 
+
+### #is_/same_as :: [Yatenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.private.md) 
+
+### #is_/same_as :: [Yatenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.personal.md) 
+
+### #is_/same_as :: [Yatenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.secret.md)
 

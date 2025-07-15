@@ -40,11 +40,18 @@ markerFolder: ./Nahouri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri|Nahouri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.public|Nahouri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.internal|Nahouri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.protect|Nahouri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.private|Nahouri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.personal|Nahouri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Nahouri.secret|Nahouri.secret]] 
+
+### #is_/same_as :: [Nahouri](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.md) 
+
+### #is_/same_as :: [Nahouri.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.public.md) 
+
+### #is_/same_as :: [Nahouri.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.internal.md) 
+
+### #is_/same_as :: [Nahouri.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.protect.md) 
+
+### #is_/same_as :: [Nahouri.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.private.md) 
+
+### #is_/same_as :: [Nahouri.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.personal.md) 
+
+### #is_/same_as :: [Nahouri.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.secret.md)
 

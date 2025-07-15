@@ -40,11 +40,18 @@ markerFolder: ./Gnagna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna|Gnagna]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.public|Gnagna.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.internal|Gnagna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.protect|Gnagna.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.private|Gnagna.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.personal|Gnagna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Gnagna.secret|Gnagna.secret]] 
+
+### #is_/same_as :: [Gnagna](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.md) 
+
+### #is_/same_as :: [Gnagna.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.public.md) 
+
+### #is_/same_as :: [Gnagna.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.internal.md) 
+
+### #is_/same_as :: [Gnagna.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.protect.md) 
+
+### #is_/same_as :: [Gnagna.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.private.md) 
+
+### #is_/same_as :: [Gnagna.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.personal.md) 
+
+### #is_/same_as :: [Gnagna.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Gnagna.secret.md)
 

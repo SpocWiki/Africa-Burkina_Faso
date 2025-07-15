@@ -41,11 +41,18 @@ markerFolder: ./Kénédougou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou|Kénédougou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.public|Kénédougou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.internal|Kénédougou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.protect|Kénédougou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.private|Kénédougou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.personal|Kénédougou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kénédougou.secret|Kénédougou.secret]] 
+
+### #is_/same_as :: [Kénédougou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.md) 
+
+### #is_/same_as :: [Kénédougou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.public.md) 
+
+### #is_/same_as :: [Kénédougou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.internal.md) 
+
+### #is_/same_as :: [Kénédougou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.protect.md) 
+
+### #is_/same_as :: [Kénédougou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.private.md) 
+
+### #is_/same_as :: [Kénédougou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.personal.md) 
+
+### #is_/same_as :: [Kénédougou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.secret.md)
 

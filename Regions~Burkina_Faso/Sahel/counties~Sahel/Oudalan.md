@@ -40,11 +40,18 @@ markerFolder: ./Oudalan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan|Oudalan]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.public|Oudalan.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.internal|Oudalan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.protect|Oudalan.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.private|Oudalan.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.personal|Oudalan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Oudalan.secret|Oudalan.secret]] 
+
+### #is_/same_as :: [Oudalan](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.md) 
+
+### #is_/same_as :: [Oudalan.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.public.md) 
+
+### #is_/same_as :: [Oudalan.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.internal.md) 
+
+### #is_/same_as :: [Oudalan.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.protect.md) 
+
+### #is_/same_as :: [Oudalan.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.private.md) 
+
+### #is_/same_as :: [Oudalan.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.personal.md) 
+
+### #is_/same_as :: [Oudalan.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.secret.md)
 

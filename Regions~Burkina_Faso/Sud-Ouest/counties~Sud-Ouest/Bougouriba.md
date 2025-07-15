@@ -40,11 +40,18 @@ markerFolder: ./Bougouriba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba|Bougouriba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.public|Bougouriba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.internal|Bougouriba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.protect|Bougouriba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.private|Bougouriba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.personal|Bougouriba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bougouriba.secret|Bougouriba.secret]] 
+
+### #is_/same_as :: [Bougouriba](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.md) 
+
+### #is_/same_as :: [Bougouriba.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.public.md) 
+
+### #is_/same_as :: [Bougouriba.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.internal.md) 
+
+### #is_/same_as :: [Bougouriba.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.protect.md) 
+
+### #is_/same_as :: [Bougouriba.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.private.md) 
+
+### #is_/same_as :: [Bougouriba.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.personal.md) 
+
+### #is_/same_as :: [Bougouriba.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.secret.md)
 

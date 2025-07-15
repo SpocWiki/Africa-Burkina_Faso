@@ -40,11 +40,18 @@ markerFolder: ./Kourwéogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo|Kourwéogo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.public|Kourwéogo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.internal|Kourwéogo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.protect|Kourwéogo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.private|Kourwéogo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.personal|Kourwéogo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kourwéogo.secret|Kourwéogo.secret]] 
+
+### #is_/same_as :: [Kourwéogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.md) 
+
+### #is_/same_as :: [Kourwéogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.public.md) 
+
+### #is_/same_as :: [Kourwéogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.internal.md) 
+
+### #is_/same_as :: [Kourwéogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.protect.md) 
+
+### #is_/same_as :: [Kourwéogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.private.md) 
+
+### #is_/same_as :: [Kourwéogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.personal.md) 
+
+### #is_/same_as :: [Kourwéogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kadiogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo|Kadiogo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.public|Kadiogo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.internal|Kadiogo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.protect|Kadiogo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.private|Kadiogo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.personal|Kadiogo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Kadiogo.secret|Kadiogo.secret]] 
+
+### #is_/same_as :: [Kadiogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.md) 
+
+### #is_/same_as :: [Kadiogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.public.md) 
+
+### #is_/same_as :: [Kadiogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.internal.md) 
+
+### #is_/same_as :: [Kadiogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.protect.md) 
+
+### #is_/same_as :: [Kadiogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.private.md) 
+
+### #is_/same_as :: [Kadiogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.personal.md) 
+
+### #is_/same_as :: [Kadiogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.secret.md)
 

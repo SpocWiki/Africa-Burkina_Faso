@@ -40,11 +40,18 @@ markerFolder: ./Sanmatenga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga|Sanmatenga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.public|Sanmatenga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.internal|Sanmatenga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.protect|Sanmatenga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.private|Sanmatenga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.personal|Sanmatenga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Sanmatenga.secret|Sanmatenga.secret]] 
+
+### #is_/same_as :: [Sanmatenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.md) 
+
+### #is_/same_as :: [Sanmatenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.public.md) 
+
+### #is_/same_as :: [Sanmatenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.internal.md) 
+
+### #is_/same_as :: [Sanmatenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.protect.md) 
+
+### #is_/same_as :: [Sanmatenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.private.md) 
+
+### #is_/same_as :: [Sanmatenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.personal.md) 
+
+### #is_/same_as :: [Sanmatenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.secret.md)
 

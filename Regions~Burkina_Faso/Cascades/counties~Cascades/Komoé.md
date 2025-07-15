@@ -40,11 +40,18 @@ markerFolder: ./Komoé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Komoé|Komoé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.public|Komoé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.internal|Komoé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.protect|Komoé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.private|Komoé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.personal|Komoé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Komoé.secret|Komoé.secret]] 
+
+### #is_/same_as :: [Komoé](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.md) 
+
+### #is_/same_as :: [Komoé.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.public.md) 
+
+### #is_/same_as :: [Komoé.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.internal.md) 
+
+### #is_/same_as :: [Komoé.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.protect.md) 
+
+### #is_/same_as :: [Komoé.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.private.md) 
+
+### #is_/same_as :: [Komoé.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.personal.md) 
+
+### #is_/same_as :: [Komoé.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.secret.md)
 

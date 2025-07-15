@@ -40,11 +40,18 @@ markerFolder: ./Ziro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Ziro|Ziro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.public|Ziro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.internal|Ziro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.protect|Ziro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.private|Ziro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.personal|Ziro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Ziro.secret|Ziro.secret]] 
+
+### #is_/same_as :: [Ziro](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.md) 
+
+### #is_/same_as :: [Ziro.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.public.md) 
+
+### #is_/same_as :: [Ziro.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.internal.md) 
+
+### #is_/same_as :: [Ziro.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.protect.md) 
+
+### #is_/same_as :: [Ziro.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.private.md) 
+
+### #is_/same_as :: [Ziro.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.personal.md) 
+
+### #is_/same_as :: [Ziro.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Ziro.secret.md)
 

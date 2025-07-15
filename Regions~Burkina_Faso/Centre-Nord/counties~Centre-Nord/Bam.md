@@ -39,11 +39,18 @@ markerFolder: ./Bam/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Bam|Bam]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Bam.public|Bam.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.internal|Bam.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Bam.protect|Bam.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Bam.private|Bam.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Bam.personal|Bam.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Bam.secret|Bam.secret]] 
+
+### #is_/same_as :: [Bam](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.md) 
+
+### #is_/same_as :: [Bam.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.public.md) 
+
+### #is_/same_as :: [Bam.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.internal.md) 
+
+### #is_/same_as :: [Bam.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.protect.md) 
+
+### #is_/same_as :: [Bam.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.private.md) 
+
+### #is_/same_as :: [Bam.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.personal.md) 
+
+### #is_/same_as :: [Bam.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.secret.md)
 

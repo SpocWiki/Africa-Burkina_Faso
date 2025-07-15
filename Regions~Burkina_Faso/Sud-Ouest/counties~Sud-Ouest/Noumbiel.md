@@ -40,11 +40,18 @@ markerFolder: ./Noumbiel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel|Noumbiel]] 
-- [[../../../../../../_public/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.public|Noumbiel.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.internal|Noumbiel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.protect|Noumbiel.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.private|Noumbiel.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.personal|Noumbiel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Burkina_Faso/Counties/Noumbiel.secret|Noumbiel.secret]] 
+
+### #is_/same_as :: [Noumbiel](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.md) 
+
+### #is_/same_as :: [Noumbiel.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.public.md) 
+
+### #is_/same_as :: [Noumbiel.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.internal.md) 
+
+### #is_/same_as :: [Noumbiel.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.protect.md) 
+
+### #is_/same_as :: [Noumbiel.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.private.md) 
+
+### #is_/same_as :: [Noumbiel.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.personal.md) 
+
+### #is_/same_as :: [Noumbiel.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.secret.md)
 

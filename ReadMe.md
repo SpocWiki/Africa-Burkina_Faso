@@ -127,10 +127,4 @@ Capital :: [[Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougo
 
 
 
-## Confidential Links & Embeds: 
-- [[Burkina_Faso|Burkina_Faso]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Burkina_Faso.internal|Burkina_Faso.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Burkina_Faso.protect|Burkina_Faso.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Burkina_Faso.private|Burkina_Faso.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Burkina_Faso.personal|Burkina_Faso.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Burkina_Faso.secret|Burkina_Faso.secret]] 
+
