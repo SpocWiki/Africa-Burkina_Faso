@@ -1,33 +1,34 @@
 ---
 location:
-- 12.3333
-- -1.66667
+  - 12.3333
+  - -1.66667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26845
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Burkina Faso
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Burkina Faso
-- بوركينا فاسو
-- 布基纳法索
-- Буркина-Фасо
+  - Burkina Faso
+  - بوركينا فاسو
+  - 布基纳法索
+  - Буркина-Фасо
 Languages:
-- fr-BF
-- mos
+  - fr-BF
+  - mos
 ---
 
 
