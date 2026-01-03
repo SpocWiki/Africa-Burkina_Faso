@@ -40,17 +40,17 @@ markerFolder: ./Yatenga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yatenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga|Yatenga]] 
 
-### #is_/same_as :: [Yatenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.public|Yatenga.public]] 
 
-### #is_/same_as :: [Yatenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.internal|Yatenga.internal]] 
 
-### #is_/same_as :: [Yatenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.protect|Yatenga.protect]] 
 
-### #is_/same_as :: [Yatenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.private|Yatenga.private]] 
 
-### #is_/same_as :: [Yatenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.personal|Yatenga.personal]] 
 
-### #is_/same_as :: [Yatenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Yatenga.secret|Yatenga.secret]] 
 

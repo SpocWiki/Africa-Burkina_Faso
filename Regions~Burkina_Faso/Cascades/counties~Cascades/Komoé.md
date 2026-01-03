@@ -41,17 +41,17 @@ markerFolder: ./Komoé/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Komoé](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé|Komoé]] 
 
-### #is_/same_as :: [Komoé.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.public|Komoé.public]] 
 
-### #is_/same_as :: [Komoé.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.internal|Komoé.internal]] 
 
-### #is_/same_as :: [Komoé.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.protect|Komoé.protect]] 
 
-### #is_/same_as :: [Komoé.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.private|Komoé.private]] 
 
-### #is_/same_as :: [Komoé.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.personal|Komoé.personal]] 
 
-### #is_/same_as :: [Komoé.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Cascades/counties~Cascades/Komoé.secret|Komoé.secret]] 
 

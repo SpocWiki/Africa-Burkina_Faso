@@ -142,3 +142,20 @@ ISNI: "0000000109098487"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomas%20Sankara) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas|Sankara,Thomas]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas.public|Sankara,Thomas.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas.internal|Sankara,Thomas.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas.protect|Sankara,Thomas.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas.private|Sankara,Thomas.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas.personal|Sankara,Thomas.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Sankara,Thomas.secret|Sankara,Thomas.secret]] 
+

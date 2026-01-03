@@ -40,17 +40,17 @@ markerFolder: ./Sanguié/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sanguié](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié|Sanguié]] 
 
-### #is_/same_as :: [Sanguié.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.public|Sanguié.public]] 
 
-### #is_/same_as :: [Sanguié.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.internal|Sanguié.internal]] 
 
-### #is_/same_as :: [Sanguié.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.protect|Sanguié.protect]] 
 
-### #is_/same_as :: [Sanguié.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.private|Sanguié.private]] 
 
-### #is_/same_as :: [Sanguié.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.personal|Sanguié.personal]] 
 
-### #is_/same_as :: [Sanguié.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sanguié.secret|Sanguié.secret]] 
 

@@ -41,17 +41,17 @@ markerFolder: ./Mou_Houn/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mou_Houn](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn|Mou_Houn]] 
 
-### #is_/same_as :: [Mou_Houn.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.public|Mou_Houn.public]] 
 
-### #is_/same_as :: [Mou_Houn.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.internal|Mou_Houn.internal]] 
 
-### #is_/same_as :: [Mou_Houn.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.protect|Mou_Houn.protect]] 
 
-### #is_/same_as :: [Mou_Houn.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.private|Mou_Houn.private]] 
 
-### #is_/same_as :: [Mou_Houn.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.personal|Mou_Houn.personal]] 
 
-### #is_/same_as :: [Mou_Houn.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Mou_Houn.secret|Mou_Houn.secret]] 
 

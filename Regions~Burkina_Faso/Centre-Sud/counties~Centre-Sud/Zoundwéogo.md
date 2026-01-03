@@ -40,17 +40,17 @@ markerFolder: ./Zoundwéogo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zoundwéogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo|Zoundwéogo]] 
 
-### #is_/same_as :: [Zoundwéogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.public|Zoundwéogo.public]] 
 
-### #is_/same_as :: [Zoundwéogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.internal|Zoundwéogo.internal]] 
 
-### #is_/same_as :: [Zoundwéogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.protect|Zoundwéogo.protect]] 
 
-### #is_/same_as :: [Zoundwéogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.private|Zoundwéogo.private]] 
 
-### #is_/same_as :: [Zoundwéogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.personal|Zoundwéogo.personal]] 
 
-### #is_/same_as :: [Zoundwéogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Zoundwéogo.secret|Zoundwéogo.secret]] 
 

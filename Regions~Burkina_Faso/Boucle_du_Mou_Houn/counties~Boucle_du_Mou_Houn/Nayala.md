@@ -42,17 +42,17 @@ markerFolder: ./Nayala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nayala](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala|Nayala]] 
 
-### #is_/same_as :: [Nayala.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.public|Nayala.public]] 
 
-### #is_/same_as :: [Nayala.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.internal|Nayala.internal]] 
 
-### #is_/same_as :: [Nayala.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.protect|Nayala.protect]] 
 
-### #is_/same_as :: [Nayala.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.private|Nayala.private]] 
 
-### #is_/same_as :: [Nayala.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.personal|Nayala.personal]] 
 
-### #is_/same_as :: [Nayala.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Nayala.secret|Nayala.secret]] 
 

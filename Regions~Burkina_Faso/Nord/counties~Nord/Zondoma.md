@@ -40,17 +40,17 @@ markerFolder: ./Zondoma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zondoma](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma|Zondoma]] 
 
-### #is_/same_as :: [Zondoma.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.public|Zondoma.public]] 
 
-### #is_/same_as :: [Zondoma.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.internal|Zondoma.internal]] 
 
-### #is_/same_as :: [Zondoma.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.protect|Zondoma.protect]] 
 
-### #is_/same_as :: [Zondoma.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.private|Zondoma.private]] 
 
-### #is_/same_as :: [Zondoma.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.personal|Zondoma.personal]] 
 
-### #is_/same_as :: [Zondoma.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Zondoma.secret|Zondoma.secret]] 
 

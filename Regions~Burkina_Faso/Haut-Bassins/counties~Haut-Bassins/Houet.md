@@ -40,17 +40,17 @@ markerFolder: ./Houet/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Houet](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet|Houet]] 
 
-### #is_/same_as :: [Houet.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.public|Houet.public]] 
 
-### #is_/same_as :: [Houet.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.internal|Houet.internal]] 
 
-### #is_/same_as :: [Houet.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.protect|Houet.protect]] 
 
-### #is_/same_as :: [Houet.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.private|Houet.private]] 
 
-### #is_/same_as :: [Houet.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.personal|Houet.personal]] 
 
-### #is_/same_as :: [Houet.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Houet.secret|Houet.secret]] 
 

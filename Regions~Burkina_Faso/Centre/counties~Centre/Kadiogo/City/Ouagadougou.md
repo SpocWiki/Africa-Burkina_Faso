@@ -115,20 +115,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Ouagadougou) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouagadougou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou|Ouagadougou]] 
 
-### #is_/same_as :: [Ouagadougou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.public|Ouagadougou.public]] 
 
-### #is_/same_as :: [Ouagadougou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.internal|Ouagadougou.internal]] 
 
-### #is_/same_as :: [Ouagadougou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.protect|Ouagadougou.protect]] 
 
-### #is_/same_as :: [Ouagadougou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.private|Ouagadougou.private]] 
 
-### #is_/same_as :: [Ouagadougou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.personal|Ouagadougou.personal]] 
 
-### #is_/same_as :: [Ouagadougou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou.secret|Ouagadougou.secret]] 
 

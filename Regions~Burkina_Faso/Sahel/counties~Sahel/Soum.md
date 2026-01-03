@@ -40,17 +40,17 @@ markerFolder: ./Soum/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soum](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum|Soum]] 
 
-### #is_/same_as :: [Soum.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.public|Soum.public]] 
 
-### #is_/same_as :: [Soum.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.internal|Soum.internal]] 
 
-### #is_/same_as :: [Soum.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.protect|Soum.protect]] 
 
-### #is_/same_as :: [Soum.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.private|Soum.private]] 
 
-### #is_/same_as :: [Soum.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.personal|Soum.personal]] 
 
-### #is_/same_as :: [Soum.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Soum.secret|Soum.secret]] 
 

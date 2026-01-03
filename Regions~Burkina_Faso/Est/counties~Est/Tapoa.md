@@ -40,17 +40,17 @@ markerFolder: ./Tapoa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tapoa](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa|Tapoa]] 
 
-### #is_/same_as :: [Tapoa.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.public|Tapoa.public]] 
 
-### #is_/same_as :: [Tapoa.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.internal|Tapoa.internal]] 
 
-### #is_/same_as :: [Tapoa.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.protect|Tapoa.protect]] 
 
-### #is_/same_as :: [Tapoa.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.private|Tapoa.private]] 
 
-### #is_/same_as :: [Tapoa.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.personal|Tapoa.personal]] 
 
-### #is_/same_as :: [Tapoa.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Tapoa.secret|Tapoa.secret]] 
 

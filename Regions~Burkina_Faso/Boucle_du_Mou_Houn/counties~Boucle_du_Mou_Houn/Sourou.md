@@ -40,17 +40,17 @@ markerFolder: ./Sourou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sourou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou|Sourou]] 
 
-### #is_/same_as :: [Sourou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.public|Sourou.public]] 
 
-### #is_/same_as :: [Sourou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.internal|Sourou.internal]] 
 
-### #is_/same_as :: [Sourou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.protect|Sourou.protect]] 
 
-### #is_/same_as :: [Sourou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.private|Sourou.private]] 
 
-### #is_/same_as :: [Sourou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.personal|Sourou.personal]] 
 
-### #is_/same_as :: [Sourou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Sourou.secret|Sourou.secret]] 
 

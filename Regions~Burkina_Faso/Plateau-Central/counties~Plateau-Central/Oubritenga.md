@@ -40,17 +40,17 @@ markerFolder: ./Oubritenga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oubritenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga|Oubritenga]] 
 
-### #is_/same_as :: [Oubritenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.public|Oubritenga.public]] 
 
-### #is_/same_as :: [Oubritenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.internal|Oubritenga.internal]] 
 
-### #is_/same_as :: [Oubritenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.protect|Oubritenga.protect]] 
 
-### #is_/same_as :: [Oubritenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.private|Oubritenga.private]] 
 
-### #is_/same_as :: [Oubritenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.personal|Oubritenga.personal]] 
 
-### #is_/same_as :: [Oubritenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Oubritenga.secret|Oubritenga.secret]] 
 

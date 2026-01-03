@@ -40,17 +40,17 @@ markerFolder: ./Banwa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banwa](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa|Banwa]] 
 
-### #is_/same_as :: [Banwa.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.public|Banwa.public]] 
 
-### #is_/same_as :: [Banwa.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.internal|Banwa.internal]] 
 
-### #is_/same_as :: [Banwa.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.protect|Banwa.protect]] 
 
-### #is_/same_as :: [Banwa.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.private|Banwa.private]] 
 
-### #is_/same_as :: [Banwa.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.personal|Banwa.personal]] 
 
-### #is_/same_as :: [Banwa.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Boucle_du_Mou_Houn/counties~Boucle_du_Mou_Houn/Banwa.secret|Banwa.secret]] 
 

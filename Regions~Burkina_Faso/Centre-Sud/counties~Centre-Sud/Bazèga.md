@@ -42,17 +42,17 @@ markerFolder: ./Bazéga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bazèga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga|Bazèga]] 
 
-### #is_/same_as :: [Bazèga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.public|Bazèga.public]] 
 
-### #is_/same_as :: [Bazèga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.internal|Bazèga.internal]] 
 
-### #is_/same_as :: [Bazèga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.protect|Bazèga.protect]] 
 
-### #is_/same_as :: [Bazèga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.private|Bazèga.private]] 
 
-### #is_/same_as :: [Bazèga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.personal|Bazèga.personal]] 
 
-### #is_/same_as :: [Bazèga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Bazèga.secret|Bazèga.secret]] 
 

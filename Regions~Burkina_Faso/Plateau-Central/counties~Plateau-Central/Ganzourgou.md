@@ -40,17 +40,17 @@ markerFolder: ./Ganzourgou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ganzourgou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou|Ganzourgou]] 
 
-### #is_/same_as :: [Ganzourgou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.public|Ganzourgou.public]] 
 
-### #is_/same_as :: [Ganzourgou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.internal|Ganzourgou.internal]] 
 
-### #is_/same_as :: [Ganzourgou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.protect|Ganzourgou.protect]] 
 
-### #is_/same_as :: [Ganzourgou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.private|Ganzourgou.private]] 
 
-### #is_/same_as :: [Ganzourgou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.personal|Ganzourgou.personal]] 
 
-### #is_/same_as :: [Ganzourgou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Ganzourgou.secret|Ganzourgou.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Kourwéogo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kourwéogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo|Kourwéogo]] 
 
-### #is_/same_as :: [Kourwéogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.public|Kourwéogo.public]] 
 
-### #is_/same_as :: [Kourwéogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.internal|Kourwéogo.internal]] 
 
-### #is_/same_as :: [Kourwéogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.protect|Kourwéogo.protect]] 
 
-### #is_/same_as :: [Kourwéogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.private|Kourwéogo.private]] 
 
-### #is_/same_as :: [Kourwéogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.personal|Kourwéogo.personal]] 
 
-### #is_/same_as :: [Kourwéogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Plateau-Central/counties~Plateau-Central/Kourwéogo.secret|Kourwéogo.secret]] 
 

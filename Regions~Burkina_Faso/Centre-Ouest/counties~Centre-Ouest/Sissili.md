@@ -40,17 +40,17 @@ markerFolder: ./Sissili/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sissili](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili|Sissili]] 
 
-### #is_/same_as :: [Sissili.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.public|Sissili.public]] 
 
-### #is_/same_as :: [Sissili.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.internal|Sissili.internal]] 
 
-### #is_/same_as :: [Sissili.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.protect|Sissili.protect]] 
 
-### #is_/same_as :: [Sissili.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.private|Sissili.private]] 
 
-### #is_/same_as :: [Sissili.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.personal|Sissili.personal]] 
 
-### #is_/same_as :: [Sissili.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Ouest/counties~Centre-Ouest/Sissili.secret|Sissili.secret]] 
 

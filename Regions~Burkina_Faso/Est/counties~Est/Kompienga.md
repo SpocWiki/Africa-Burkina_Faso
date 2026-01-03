@@ -40,17 +40,17 @@ markerFolder: ./Kompienga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kompienga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga|Kompienga]] 
 
-### #is_/same_as :: [Kompienga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.public|Kompienga.public]] 
 
-### #is_/same_as :: [Kompienga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.internal|Kompienga.internal]] 
 
-### #is_/same_as :: [Kompienga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.protect|Kompienga.protect]] 
 
-### #is_/same_as :: [Kompienga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.private|Kompienga.private]] 
 
-### #is_/same_as :: [Kompienga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.personal|Kompienga.personal]] 
 
-### #is_/same_as :: [Kompienga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Est/counties~Est/Kompienga.secret|Kompienga.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Koulpélogo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koulpélogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo|Koulpélogo]] 
 
-### #is_/same_as :: [Koulpélogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.public|Koulpélogo.public]] 
 
-### #is_/same_as :: [Koulpélogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.internal|Koulpélogo.internal]] 
 
-### #is_/same_as :: [Koulpélogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.protect|Koulpélogo.protect]] 
 
-### #is_/same_as :: [Koulpélogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.private|Koulpélogo.private]] 
 
-### #is_/same_as :: [Koulpélogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.personal|Koulpélogo.personal]] 
 
-### #is_/same_as :: [Koulpélogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Koulpélogo.secret|Koulpélogo.secret]] 
 

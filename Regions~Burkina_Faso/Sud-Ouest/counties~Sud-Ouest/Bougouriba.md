@@ -40,17 +40,17 @@ markerFolder: ./Bougouriba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bougouriba](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba|Bougouriba]] 
 
-### #is_/same_as :: [Bougouriba.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.public|Bougouriba.public]] 
 
-### #is_/same_as :: [Bougouriba.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.internal|Bougouriba.internal]] 
 
-### #is_/same_as :: [Bougouriba.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.protect|Bougouriba.protect]] 
 
-### #is_/same_as :: [Bougouriba.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.private|Bougouriba.private]] 
 
-### #is_/same_as :: [Bougouriba.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.personal|Bougouriba.personal]] 
 
-### #is_/same_as :: [Bougouriba.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Bougouriba.secret|Bougouriba.secret]] 
 

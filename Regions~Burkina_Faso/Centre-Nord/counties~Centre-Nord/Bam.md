@@ -39,17 +39,17 @@ markerFolder: ./Bam/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bam](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam|Bam]] 
 
-### #is_/same_as :: [Bam.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.public|Bam.public]] 
 
-### #is_/same_as :: [Bam.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.internal|Bam.internal]] 
 
-### #is_/same_as :: [Bam.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.protect|Bam.protect]] 
 
-### #is_/same_as :: [Bam.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.private|Bam.private]] 
 
-### #is_/same_as :: [Bam.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.personal|Bam.personal]] 
 
-### #is_/same_as :: [Bam.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Bam.secret|Bam.secret]] 
 

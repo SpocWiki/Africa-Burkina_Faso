@@ -40,17 +40,17 @@ markerFolder: ./Noumbiel/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noumbiel](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel|Noumbiel]] 
 
-### #is_/same_as :: [Noumbiel.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.public|Noumbiel.public]] 
 
-### #is_/same_as :: [Noumbiel.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.internal|Noumbiel.internal]] 
 
-### #is_/same_as :: [Noumbiel.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.protect|Noumbiel.protect]] 
 
-### #is_/same_as :: [Noumbiel.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.private|Noumbiel.private]] 
 
-### #is_/same_as :: [Noumbiel.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.personal|Noumbiel.personal]] 
 
-### #is_/same_as :: [Noumbiel.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sud-Ouest/counties~Sud-Ouest/Noumbiel.secret|Noumbiel.secret]] 
 

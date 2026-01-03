@@ -40,17 +40,17 @@ markerFolder: ./Yagha/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yagha](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha|Yagha]] 
 
-### #is_/same_as :: [Yagha.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.public|Yagha.public]] 
 
-### #is_/same_as :: [Yagha.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.internal|Yagha.internal]] 
 
-### #is_/same_as :: [Yagha.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.protect|Yagha.protect]] 
 
-### #is_/same_as :: [Yagha.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.private|Yagha.private]] 
 
-### #is_/same_as :: [Yagha.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.personal|Yagha.personal]] 
 
-### #is_/same_as :: [Yagha.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Yagha.secret|Yagha.secret]] 
 

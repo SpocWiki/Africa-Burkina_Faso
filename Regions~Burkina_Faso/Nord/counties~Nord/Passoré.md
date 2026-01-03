@@ -40,17 +40,17 @@ markerFolder: ./Passoré/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Passoré](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré|Passoré]] 
 
-### #is_/same_as :: [Passoré.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.public|Passoré.public]] 
 
-### #is_/same_as :: [Passoré.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.internal|Passoré.internal]] 
 
-### #is_/same_as :: [Passoré.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.protect|Passoré.protect]] 
 
-### #is_/same_as :: [Passoré.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.private|Passoré.private]] 
 
-### #is_/same_as :: [Passoré.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.personal|Passoré.personal]] 
 
-### #is_/same_as :: [Passoré.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Nord/counties~Nord/Passoré.secret|Passoré.secret]] 
 

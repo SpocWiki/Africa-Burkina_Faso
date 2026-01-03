@@ -40,17 +40,17 @@ markerFolder: ./Oudalan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oudalan](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan|Oudalan]] 
 
-### #is_/same_as :: [Oudalan.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.public|Oudalan.public]] 
 
-### #is_/same_as :: [Oudalan.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.internal|Oudalan.internal]] 
 
-### #is_/same_as :: [Oudalan.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.protect|Oudalan.protect]] 
 
-### #is_/same_as :: [Oudalan.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.private|Oudalan.private]] 
 
-### #is_/same_as :: [Oudalan.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.personal|Oudalan.personal]] 
 
-### #is_/same_as :: [Oudalan.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Sahel/counties~Sahel/Oudalan.secret|Oudalan.secret]] 
 

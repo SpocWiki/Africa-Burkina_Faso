@@ -40,17 +40,17 @@ markerFolder: ./Nahouri/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nahouri](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri|Nahouri]] 
 
-### #is_/same_as :: [Nahouri.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.public|Nahouri.public]] 
 
-### #is_/same_as :: [Nahouri.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.internal|Nahouri.internal]] 
 
-### #is_/same_as :: [Nahouri.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.protect|Nahouri.protect]] 
 
-### #is_/same_as :: [Nahouri.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.private|Nahouri.private]] 
 
-### #is_/same_as :: [Nahouri.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.personal|Nahouri.personal]] 
 
-### #is_/same_as :: [Nahouri.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Sud/counties~Centre-Sud/Nahouri.secret|Nahouri.secret]] 
 

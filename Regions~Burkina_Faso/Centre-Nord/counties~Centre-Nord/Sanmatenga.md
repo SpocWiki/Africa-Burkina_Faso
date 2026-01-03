@@ -40,17 +40,17 @@ markerFolder: ./Sanmatenga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sanmatenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga|Sanmatenga]] 
 
-### #is_/same_as :: [Sanmatenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.public|Sanmatenga.public]] 
 
-### #is_/same_as :: [Sanmatenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.internal|Sanmatenga.internal]] 
 
-### #is_/same_as :: [Sanmatenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.protect|Sanmatenga.protect]] 
 
-### #is_/same_as :: [Sanmatenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.private|Sanmatenga.private]] 
 
-### #is_/same_as :: [Sanmatenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.personal|Sanmatenga.personal]] 
 
-### #is_/same_as :: [Sanmatenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Nord/counties~Centre-Nord/Sanmatenga.secret|Sanmatenga.secret]] 
 

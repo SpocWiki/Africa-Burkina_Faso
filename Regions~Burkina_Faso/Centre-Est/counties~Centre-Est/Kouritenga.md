@@ -40,17 +40,17 @@ markerFolder: ./Kouritenga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kouritenga](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga|Kouritenga]] 
 
-### #is_/same_as :: [Kouritenga.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.public|Kouritenga.public]] 
 
-### #is_/same_as :: [Kouritenga.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.internal|Kouritenga.internal]] 
 
-### #is_/same_as :: [Kouritenga.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.protect|Kouritenga.protect]] 
 
-### #is_/same_as :: [Kouritenga.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.private|Kouritenga.private]] 
 
-### #is_/same_as :: [Kouritenga.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.personal|Kouritenga.personal]] 
 
-### #is_/same_as :: [Kouritenga.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre-Est/counties~Centre-Est/Kouritenga.secret|Kouritenga.secret]] 
 

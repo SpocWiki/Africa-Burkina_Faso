@@ -42,17 +42,17 @@ markerFolder: ./Kénédougou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kénédougou](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou|Kénédougou]] 
 
-### #is_/same_as :: [Kénédougou.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.public|Kénédougou.public]] 
 
-### #is_/same_as :: [Kénédougou.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.internal|Kénédougou.internal]] 
 
-### #is_/same_as :: [Kénédougou.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.protect|Kénédougou.protect]] 
 
-### #is_/same_as :: [Kénédougou.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.private|Kénédougou.private]] 
 
-### #is_/same_as :: [Kénédougou.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.personal|Kénédougou.personal]] 
 
-### #is_/same_as :: [Kénédougou.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Haut-Bassins/counties~Haut-Bassins/Kénédougou.secret|Kénédougou.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Kadiogo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kadiogo](/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo|Kadiogo]] 
 
-### #is_/same_as :: [Kadiogo.public](/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.public|Kadiogo.public]] 
 
-### #is_/same_as :: [Kadiogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.internal|Kadiogo.internal]] 
 
-### #is_/same_as :: [Kadiogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.protect|Kadiogo.protect]] 
 
-### #is_/same_as :: [Kadiogo.private](/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.private|Kadiogo.private]] 
 
-### #is_/same_as :: [Kadiogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.personal|Kadiogo.personal]] 
 
-### #is_/same_as :: [Kadiogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo.secret|Kadiogo.secret]] 
 
