@@ -114,7 +114,7 @@ markerFolder: .//
 [Area-Land::273600] 
 Continent :: [[Africa]]  
 [VehicleCode::BF] 
-Capital :: [[Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou]]  
+Capital :: [[Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou|Ouagadougou]]  
 
 ![[Coat_of_arms_of_Burkina_Faso.svg|350]] 
 
