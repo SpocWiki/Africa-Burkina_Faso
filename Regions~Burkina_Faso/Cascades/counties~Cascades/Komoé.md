@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Komoé/
 markerFolder: ./Komoé/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

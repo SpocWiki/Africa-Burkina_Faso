@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Yagha/
 markerFolder: ./Yagha/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
