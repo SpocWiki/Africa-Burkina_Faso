@@ -807,7 +807,7 @@ dv_UNTERM_Chinese_Formal: 布基纳法索
 dv_UNTERM_French_Formal: le Burkina Faso
 dv_UNTERM_Russian: Буркина-Фасо
 dv_UNTERM_Russian_Formal: Буркина-Фасо
-dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Region_Name: "[[../../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Western Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -836,7 +836,7 @@ dv_ISO3: BFA
 dv_has_name_de: Burkina Faso
 dv_Area-Total: 274200
 dv_Area-Land: 273600
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_VehicleCode: BF
 dv_Alcohol-l: 7
 dv_Language-Id: 496
@@ -868,7 +868,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Burkina_Faso/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/properties 
 
@@ -955,7 +955,7 @@ markerFile: [[Burkina_Faso]]
 
 ```leaflet
 id: Burkina_Faso_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -979,11 +979,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou|Ouagadougou]]  
+Capital :: [[Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou|Ouagadougou]]  
 
 ![[Coat_of_arms_of_Burkina_Faso.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Burkina-faso.mp3|Anthem-Burkina-faso.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Burkina-faso.mp3|Anthem-Burkina-faso.mp3]]
 
 ![[Flag_of_Burkina_Faso.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
